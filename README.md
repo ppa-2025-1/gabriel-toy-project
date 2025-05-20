@@ -1,2 +1,2 @@
-# gunther-toy-project
+# gabriel-toy-project
 Toy Project da disciplina
